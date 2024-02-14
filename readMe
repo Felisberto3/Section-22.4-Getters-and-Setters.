@@ -1,0 +1,10 @@
+1- [x] - As propriedades setters e getter são usadas para alterar 
+        e pegar variáveis na classe
+
+2- [x] - Os métodos setter podem ser usados 
+        sem usar parametros, apenas pasando valores 
+        como objecto.
+
+Nota: Os métodos set não podem ser usados 
+        usando parametros, apenas pasando valores 
+        como objecto.
